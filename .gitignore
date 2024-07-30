@@ -1,15 +1,5 @@
 .venv/
-.idea/
 .vs/
 .vscode/
-.VSCodeCounter/
-results/
-docs/build/
-docs/source/_autosummary/
-cache/
-code/build/
-code/lgm.egg-info/
 __pycache__/
 *.pyc
-*.sln
-*.pyproj
