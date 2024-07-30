@@ -2,6 +2,8 @@
 
 This very project presents a solution to Xpand IT's Data Science challenge for a recruitment process. The pproblem is about investing in the stock market, done in a very peculiar fashion: a client is to invest in a stock, buying and selling it at the beginning and ending of each week, respectively. The goal would be to find for each week, which stock would give the largest profit.
 
+> [**_NOTE:_** some figures might not appear in GitHub due to usage of `Plotly`.]
+
 # Requirements
 
 Note that Python 3.11.4 was used in this work. To create the respective virtual environment simply write in the PowerShell console open at the main folder:
